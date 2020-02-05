@@ -1,1 +1,1 @@
-<img src="" on error="alert()">
+<img src=" " onerror="alert()">
